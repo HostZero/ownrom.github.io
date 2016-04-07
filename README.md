@@ -1,6 +1,6 @@
 # OwnROM-Website:
 
-A website for OwnDroid and our ROM, OwnROM.
+A website for OwnDroid and our ROM, OwnROM
 
 http://owndroid.nl  (MAIN)
 
