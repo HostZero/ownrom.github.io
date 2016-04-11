@@ -34,8 +34,7 @@ title: Download
 # Old Downloads [Lollipop - 5.1.1]
 
 <br>
-      
-<div class="table-responsive">	  
+        
 <table>
 <thead>
                                 <tr>
@@ -265,7 +264,6 @@ title: Download
 
                             </tbody>
                         </table>
-						</div>
                            
 <br>
 
