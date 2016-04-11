@@ -1,0 +1,27 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/index.html">Home</a>
+    <a class="sidebar-nav-item" href="/about.html">About</a>
+    <a class="sidebar-nav-item" href="/blog">News</a>
+    <a class="sidebar-nav-item" href="/download.html">Download</a>
+    <a class="sidebar-nav-item" href="/contribute.html">Contribute</a>
+    <a class="sidebar-nav-item" href="/team.html">Our Team</a>
+    <a class="sidebar-nav-item" href="http://github.com/ownrom">GitHub</a>
+    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
+  </div>
+</div>

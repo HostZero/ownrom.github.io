@@ -1,149 +1,88 @@
-# OwnROM-Website:
 
-A website for OwnDroid and our ROM, OwnROM
+#ownrom-website
 
-http://owndroid.nl  (MAIN)
+Testing repo for the ownrom website
 
-https://ownrom.github.io (BETA)
+## Options
 
-[![Issue Stats](http://issuestats.com/github/OwnROM/ownrom.github.io/badge/pr)](http://issuestats.com/github/OwnROM/ownrom.github.io)
+Lanyon includes some customizable options, typically applied via classes on the `<body>` element.
 
-[![Issue Stats](http://issuestats.com/github/OwnROM/ownrom.github.io/badge/issue)](http://issuestats.com/github/OwnROM/ownrom.github.io)
 
-##Screenshot (As of April 26, 2015):
+### Sidebar menu
 
-![Alt text](https://github.com/OwnROM/ownrom.github.io/blob/master/assets/images/Screenshot.png)
+Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
 
-## Tech:
-
-Our website uses a number of projects/software to work:
-
-* [Bootstrap] - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web
-* [Markdown] -Markdown is a text-to-HTML conversion tool for web writers
-
-##Instructions:
-
-When coping code do not copy the $ symbols or any line with # at the front
-
-## Downloading:
-
-```sh
-#Make a directory to hold the source
-$ mkdir ownrom-website
-#Go to the directory
-$ cd ownrom-website
-#Get the source code
-$ git clone https://github.com/OwnROM/ownrom.github.io
+```
+---
+layout: page
+title: About
+---
 ```
 
-Or download the repo as a zip file to the right -->
+**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
 
-Then extracting it to a new directory called ownrom-website
 
-## Development:
+### Themes
 
-Want to contribute? Great!
+Lanyon ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
-You may edit any file in this respitory including the readme or add files if needed if you think this will improve the site or projet
+There are eight themes available at this time.
 
-#### Needed programs:
+![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
 
-##### Text editor:
+To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
 
-If you need a text editor we would recommend ethier [Brackets], [Atom], [Sublime] or [Geany]
-
-If you need a more heavyweight text editor with many features, extensions or themes use ethier [Brackets], [Atom] or [Sublime]
-
-http://brackets.io/
-
-http://atom.io
-
-http://www.sublimetext.com/
-
-If you however want a more lightweight text editor that still has a good amount of feautres try [Geany]
-
-http://www.geany.org/
-
-##### Framework:
-
-Our website uses the [Bootstrap] framework. To see what you can add/edit using this see the following link
-
-http://getbootstrap.com/
-
-This dosent need to be installed
-
-##### Editing multiple files:
-
-First download the source code as explained above in the downloading section
-
-Then initialize the local directory as a Git repository
-```sh
-#Go to the source directory
-$ cd ownrom-website
-#Initalize this as a git respitory (For pushing changes)
-$ git init
+```html
+<body class="theme-base-08">
+  ...
+</body>
 ```
 
-Add the URL for the remote repository where your local repostory will be pushed.
-```sh
-$ git remote add origin https://github.com/OwnROM/ownrom.github.io.git
+To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+
+
+### Reverse layout
+
+Reverse the page orientation with a single class.
+
+```html
+<body class="layout-reverse">
+  ...
+</body>
 ```
 
-Then pull in any new changes
-```sh
-$ git pull origin master
+
+### Sidebar overlay instead of push
+
+Make the sidebar overlap the viewport content with a single class:
+
+```html
+<body class="sidebar-overlay">
+  ...
+</body>
 ```
 
-You may now add/edit any files in your local respitory
+This will keep the content stationary and slide in the sidebar over the side content. It also adds a `box-shadow` based outline to the toggle for contrast against backgrounds, as well as a `box-shadow` on the sidebar for depth.
 
-After editing or adding files add the files to your local repository
-```sh
-#Adds all changed files to get ready for a commit
-$ git add .
+It's also available for a reversed layout when you add both classes:
+
+```html
+<body class="layout-reverse sidebar-overlay">
+  ...
+</body>
 ```
 
-Then commit the files that you've staged in your local repository (Where commit text could be anything you want)
-```sh
-$ git commit -m 'commit text'
+### Sidebar open on page load
+
+Show an open sidebar on page load by modifying the `<input>` tag within the `sidebar.html` layout to add the `checked` boolean attribute:
+
+```html
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
 ```
 
-Finally push the changes in your local repository to GitHub
-```sh
-$ git push origin master
+Using Liquid you can also conditionally show the sidebar open on a per-page basis. For example, here's how you could have it open on the homepage only:
+
+```html
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
 ```
 
-(If you get a error this usally means there has been changes in the respitory. Just use the ```$ git pull origin master``` command as shown above then push your changes)
-
-##### Editing single files:
-
-There is no need to do the steps as explained above but that would work aswell.
-
-To edit just one file click on the file in the respitory that you want to edit, hit the edit button (the pencil), edit the file as you like and subbmit it via a commit.
-
-##### Suggesting ideas:
-
-To suggest ideas for this website or fixes to be made just submit a new issue and we will get right on it.
-
-#####What gets added?
-
-If we think your additions or changes will improve this website we will add them right away. If for some reason that we think they don't we will not add them to this project.
-
-##Questions or need help?
-
-Chat with The OwnDroid team and other users of this project here
-
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OwnROM/android?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
-
-
-[Bower]:http://bower.io/
-[Geany]:http://www.geany.org/
-[FileZilla]:https://filezilla-project.org/
-[Github]:https://github.com/
-[Git]:http://git-scm.com/
-[Brackets]:http://brackets.io/
-[Markdown]:http://daringfireball.net/projects/markdown/
-[Atom]:http://atom.io
-[Bootstrap]:http://getbootstrap.com/
-[Sublime]:http://www.sublimetext.com/
