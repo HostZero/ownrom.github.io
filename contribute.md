@@ -13,15 +13,15 @@ We are searching for new developers and maintainers no matter the experience, Wa
 
 Interested just fill out the form below or get in contact with us:
 
-[LINK]
+* [Form](http://bit.ly/1CGP0HE)
 
-If you don't want to become part of our team but still want to help out, you can contribute to our ROM or website though our Github page or Join our Google+ Community.
+If you don't want to become part of our team but still want to help out, you can contribute to our ROM or website though our [Github page](http://bit.ly/1O2KtWg) or Join our [Google+ Community](http://bit.ly/1Fye9Gd).
 
 This is a great way to help spread the word about the project and also to get in touch with users of this ROM, to get help with problems and more.
 
-You can also follow us on Facebook and Twitter. Similar to joining our Google+ community you will help to support our project.
+You can also follow us on [Facebook](http://on.fb.me/1OfqtFp) and [Twitter](http://bit.ly/1yTJNBo). Similar to joining our Google+ community you will help to support our project.
 
-Donations are also excepted but are by no means necessary. This would help to support our project by being able to pay for the costs of running it (Servers, download mirrors, etc.) and also to improve on what we already have.
+[Donations](http://bit.ly/1zNq6WP) are also excepted but are by no means necessary. This would help to support our project by being able to pay for the costs of running it (Servers, download mirrors, etc.) and also to improve on what we already have.
 
 <br>
 
@@ -31,4 +31,4 @@ Donations are also excepted but are by no means necessary. This would help to su
 
 We also have guides for people interested in Android and others who would want to help out:
 
-Build Guide: [LINK] 
+* [Build Guide](/2016/04/07/build-guide.html) 

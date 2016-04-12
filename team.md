@@ -6,32 +6,34 @@ title: Our Team
 # Our Team
 <br>
                 
-Mark V
+### Mark V
                    
 * Main Developer
                                                       
-Victor Linfield
+### Victor Linfield
 
 * Web Developer
                
-Akhil Narang
+### Akhil Narang
                             
 * Developer
 
-Gokul Balram
+### Gokul Balram
                             
 * Maintainer
                                          
-Esteban
+### Esteban
                      
 * Maintainer
                      
-Kunal Patil
+### Kunal Patil
                       
 * Maintainer
 
-Not Listed Or Information Wrong?
+<br>
+
+Not listed or your information is wrong?
                      
-Give me a PM on hangouts or XDA
+Give me a PM on [hangouts](https://plus.google.com/+VictorLinfield) or [XDA](http://forum.xda-developers.com/member.php?u=5504962)
 
                           
