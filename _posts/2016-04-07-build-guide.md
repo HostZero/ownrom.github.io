@@ -2,11 +2,6 @@
 layout: post
 title: Build Guide
 ---
-
-# Build Guide
-
-### April 11, 2016
-
 <br>
 
 {% highlight bash %}

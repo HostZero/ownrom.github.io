@@ -1,0 +1,26 @@
+---
+layout: post
+title: So Here We Are
+---
+
+So here we are, a new website, a new Android version and got myself a great new team to work with... 
+
+First of I would like to thank Victor Linfield for creating this beatifull website, I know it isn't ready but still it's great to see your work on it...
+
+Second I would like to say thanks to the team we put together, not only do they mantian a device but we became good friends, even though we live far away from each other, I want to see this ROM grow and we will always be nice to the users, cause that's what is seem to missing by most Roms...
+
+So let's go on to the real part...
+
+As of now where facing a lot of nasty build bugs, so that's why the lollipop builds aren't there yet, we kindly ask you to wait a little longer till we got them squashed...
+
+Maintained devices for now: Nexus devices: Nexus 5 HAMMERHEAD Nexus 7 (2013) FLO​​​​​​​​​​ Samsung devices: SGS2 I9100​​​​​​​​​​ SGS2+ I9105P​​​​​​​​​​ SGS3 I9300​​​​​​​​​​ SGS3 MINI I8190 SGS5 KLTE SGNOTE 2 T0LTE SGNOTE 3 ​​​​​​​​​​ SGACE ? GTPro 8.4 wifi MONDRIANWIFI Sony devices: SXPERIA Z YUGA SXPERIA SP HUASHAN​​​​​​​​​​ CM devices: ONEPLUS ONE BACON
+
+Join us... Still in search of new beginning developers and maintainers...
+
+Wanna set foot in the world behind the android ROM's? Wanna be a developer, maintainer for your beloved device, our website or Gapps, designer for our website, apps or ROM?
+
+Then this is your chance, we are accepting absolute newbies, we will help you get everything ready and set up to build android for your device... Why? Because we think we must share android, android is open source, so the way to develop android must be to...
+
+Join our fast growing community and help us make u huge team of NICE devs.
+
+Apply trough the support page...
