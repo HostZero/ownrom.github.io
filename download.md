@@ -65,8 +65,8 @@ G-Apps
 * Move files to desired location on phone (SD card is recommended if available)
 * Reboot into TWRP recovery
 * Wipe System, Data, Cache and Dalvik Cache (Internal storage if you wish)
-* Flash ROM and G-Apps                                
-* Reboot And Enjoy!                                
+* Flash ROM and G-Apps
+* Reboot And Enjoy!
 * Note: As always, no one but only you can be held responsible if you (soft) brick your device
 
 <br>
