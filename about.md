@@ -15,63 +15,45 @@ title: About
 
 * Open Source
 
-*OwnRom is open source and anyone can contribute towards its development. Go find us on Github[LINK]*
+*OwnRom is open source and anyone can contribute towards its development. Go find us on [GitHub](http://bit.ly/1O2KtWg)*
 
 * Community
 
-*This ROM is made by a great team and community. Anyone can join us on Google+, Github and Facebook[LINKS]*
+*This ROM is made by a great team and community. Anyone can join us on [Google+](http://bit.ly/1Fye9Gd), [GitHub](http://bit.ly/1O2KtWg) and [Facebook](http://on.fb.me/1OfqtFp)*
 
 * Lots of Features
 
-*Many features are avalible out of the box and new features are added regularly to make this Android experience enjoyable for everyone[FEATURE LINK]*
+*Many features are available out of the box and new features are added regularly to make this Android experience enjoyable for everyone*
 
 * Stable
 
-*This ROM is kept as stable as possible with official realeses done when ready for a worry free experience*
+*This ROM is kept as stable as possible with official releases done when ready for a worry free experience*
 
 * Available for multiple devices
 
-*This ROM is available for many devices though our many maintaniers which grow everyday*
+*This ROM is available for many devices though our many maintainers which grow everyday*
 
 # Features
 
-* Built-In SuperSU
-* OwnSettings
-* Built-In Changelog Viewer
-* Network Traffic Monitor
-* Toast Animations
-* QS Customization
-* Clock customization
-* CM Theme Engine
+* In-Built Root acces (enable in dev options)
+* Optional encryption
+* Theme Engine
 * Privacy Guard
 * Pulse Notification Light
 * Lockscreen Corner Shortcuts
 * Ambient Display
-* DT2W (Hardcoded in ROM-Only Supported Devices)
-* Density Changer
-* Immersive Mode (per App)
+* DT2W (Hardcoded in ROM)
 * Battery Light
-* Quick and Smart Statusbar
 * Profiles
 * Black List
-* Live Memory Steps
-* Slim Lockscreen Shortcuts
-* TRDS 5.0
-* SlimPIE
-* CAF Task Manager
-* App Circle Bar
-* System Animations
-* Improved Color Picker (with Material colors)
-* Kernel Adiutor
-* Clear All Recents Button Tweaks
-* Camera Sound Toggle
-* Wakelock Blocker
-* Long Press Back To Kill app
-* Slims IME Features
-* 0.25x and 0.75x Animations Transitions
-* Slim Recents
-* OTA Update center
-* And many more...
+* Double Tap to sleep on navbar
+* Double tap anywhere on lockscreen to sleep
+* Block QuickSettings on lockscreen
+* SysUI restart
+* Recents Mem Bar 
+* Close All Recents button
+* (+ Customizations)
+* And Many more
 * Let Us Know What You Like... Features are always being added
 
 # Credits

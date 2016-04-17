@@ -7,11 +7,52 @@ title: Download
 
 <br>
 
+All
+
+* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/)
+* [Download - Blazingphoniex (No Angler)](http://blazingphoenix.in/builds/OwnROM/)
+
+Bacon
+
+* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/bacon)
+* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/bacon)
+
+Bullhead
+
+* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/bullhead)
+* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/bullhead)
+
+Falcon
+ 
+* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/falcon)
+* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/falcon)
+
+Angler
+
+* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/angler)
+* [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=54055)
+
+Sprout8
+
+* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout8)
+* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/sprout8)
+
+Sprout4
+
+* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout4)
+* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/sprout4)
+
+G-Apps
+
+* [OpenGapps - (Not ours)](http://opengapps.org/)
+
 <br>
 
 # Changelog
 
-* Marshmallow (Not yet avalible) 
+<br>
+
+* Look though [GitHub](https://github.com/OwnROM)
 
 <br>
 
@@ -21,7 +62,7 @@ title: Download
 
 * Download latest ROM file for your device
 * Download G-Apps if wanted
-* Move files to desired location on phone (SD card is recommended if avalible)
+* Move files to desired location on phone (SD card is recommended if available)
 * Reboot into TWRP recovery
 * Wipe System, Data, Cache and Dalvik Cache (Internal storage if you wish)
 * Flash ROM and G-Apps                                
