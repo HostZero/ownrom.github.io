@@ -29,7 +29,7 @@ Android One First Gen. - sprout4
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout4)
 * [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/sprout4)
 
-Onyx - onyx
+Oneplus X - onyx
 
 * [Download - Basketbuild](https://basketbuild.com/devs/SarthakNarang/ownrom)
 
