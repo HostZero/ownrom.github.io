@@ -55,6 +55,10 @@ Lg G2 Mini
  
 * [Download - XDA](http://forum.xda-developers.com/g2-mini/development/rom-ownrom-v3-0-beta-t3360222)
 
+Moto G 2014 - titian 
+
+* [Download - XDA](http://forum.xda-developers.com/moto-g-2014/development/rom-rom-v3-0-beta-t3364649)
+
 ## G-Apps
 
 G-Apps
