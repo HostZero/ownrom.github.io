@@ -59,6 +59,10 @@ Moto G 2014 - titian
 
 * [Download - XDA](http://forum.xda-developers.com/moto-g-2014/development/rom-rom-v3-0-beta-t3364649)
 
+Moto G 2015 - osprey
+
+* [Download - XDA](http://forum.xda-developers.com/2015-moto-g/development/rom-ownrom-v3-0-beta-t3365240)
+
 ## G-Apps
 
 G-Apps
