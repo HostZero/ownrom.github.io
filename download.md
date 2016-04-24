@@ -47,13 +47,12 @@ Moto G 2013 - falcon
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/falcon)
 * [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/falcon)
 
-## Unofficial
-
-If you build for a device and want the build to become official get in contact with us using our [form](http://bit.ly/1CGP0HE) or contact me [directly](https://plus.google.com/+VictorLinfield)
-
 Lg G2 Mini
  
 * [Download - XDA](http://forum.xda-developers.com/g2-mini/development/rom-ownrom-v3-0-beta-t3360222)
+## Unofficial
+
+If you build for a device and want the build to become official get in contact with us using our [form](http://bit.ly/1CGP0HE) or contact me [directly](https://plus.google.com/+VictorLinfield)
 
 Moto G 2014 - titian 
 
