@@ -65,7 +65,7 @@ Moto G 2015 - osprey
 
 Xiaomi Redmi 2
  
-* [Download - XDA](redmi-2/development/ownrom-t3365676) 
+* [Download - XDA](http://forum.xda-developers.com/redmi-2/development/ownrom-t3365676) 
 
 ## G-Apps
 
