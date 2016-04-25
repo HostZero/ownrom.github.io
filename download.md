@@ -47,7 +47,7 @@ Moto G 2013 - falcon
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/falcon)
 * [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/falcon)
 
-Lg G2 Mini
+Lg G2 Mini - g2m
  
 * [Download - XDA](http://forum.xda-developers.com/g2-mini/development/rom-ownrom-v3-0-beta-t3360222)
 
@@ -62,6 +62,10 @@ Moto G 2014 - titian
 Moto G 2015 - osprey
 
 * [Download - XDA](http://forum.xda-developers.com/2015-moto-g/development/rom-ownrom-v3-0-beta-t3365240)
+
+Xiaomi Redmi 2
+ 
+* [Download - XDA](redmi-2/development/ownrom-t3365676) 
 
 ## G-Apps
 
