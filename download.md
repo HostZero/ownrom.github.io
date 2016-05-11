@@ -80,7 +80,8 @@ G-Apps
 
 <br>
 
-* Look though [GitHub](https://github.com/OwnROM)
+* [View here](https://raw.githubusercontent.com/OwnROM/android/own-mm/Changelog.txt)
+* [View on Github](https://github.com/OwnROM/android/blob/own-mm/Changelog.txt)
 
 <br>
 
