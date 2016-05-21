@@ -19,6 +19,11 @@ Nexus 6P - angler
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/angler)
 * [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=54055)
 
+Nexus 5 - hammerhead
+
+* [Download - XDA](http://forum.xda-developers.com/google-nexus-5/development/ownrom-hammerhead-6-0-1-mtc19t-official-t3382864)
+* [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=60299)
+
 Android One Second Gen. - sprout8
 
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout8)
@@ -50,6 +55,7 @@ Moto G 2013 - falcon
 Lg G2 Mini - g2m
  
 * [Download - XDA](http://forum.xda-developers.com/g2-mini/development/rom-ownrom-v3-0-beta-t3360222)
+* [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=60389)
 
 ## Unofficial
 
