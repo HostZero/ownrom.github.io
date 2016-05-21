@@ -12,7 +12,6 @@ title: Download
 Nexus 5X - bullhead
 
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/bullhead)
-* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/bullhead)
 
 Nexus 6P - angler
 
@@ -27,12 +26,10 @@ Nexus 5 - hammerhead
 Android One Second Gen. - sprout8
 
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout8)
-* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/sprout8)
 
 Android One First Gen. - sprout4
 
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout4)
-* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/sprout4)
 
 Oneplus X - onyx
 
@@ -41,7 +38,6 @@ Oneplus X - onyx
 Oneplus One - bacon
 
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/bacon)
-* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/bacon)
 
 Oneplus 2 - oneplus2
 
@@ -50,7 +46,6 @@ Oneplus 2 - oneplus2
 Moto G 2013 - falcon
  
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/falcon)
-* [Download - Blazingphoenix](http://blazingphoenix.in/builds/OwnROM/falcon)
 
 Lg G2 Mini - g2m
  
