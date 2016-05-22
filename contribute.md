@@ -32,3 +32,4 @@ You can also follow us on [Facebook](http://on.fb.me/1OfqtFp) and [Twitter](http
 We also have guides for people interested in Android and others who would want to help out:
 
 * [Build Guide](/2016/04/07/build-guide.html) 
+* [XDA Example Thread](/2016/05/22/xda-example.html)
