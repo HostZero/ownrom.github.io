@@ -52,13 +52,13 @@ Lg G2 Mini - g2m
 * [Download - XDA](http://forum.xda-developers.com/g2-mini/development/rom-ownrom-v3-0-beta-t3360222)
 * [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=60389)
 
-## Unofficial
-
-If you build for a device and want the build to become official get in contact with us using our [form](http://bit.ly/1CGP0HE) or contact me [directly](https://plus.google.com/+VictorLinfield)
-
 Moto G 2014 - titian 
 
 * [Download - XDA](http://forum.xda-developers.com/moto-g-2014/development/rom-rom-v3-0-beta-t3364649)
+
+## Unofficial
+
+If you build for a device and want the build to become official get in contact with us using our [form](http://bit.ly/1CGP0HE) or contact me [directly](https://plus.google.com/+VictorLinfield)
 
 Moto G 2015 - osprey
 
