@@ -3,9 +3,7 @@ layout: post
 title: Build Guide 
 ---
 
-
 **"Warning this build guide is in the works, if something dosent work or needs to be updated please contact [Victor Linfield](https://plus.google.com/+VictorLinfield) via hangouts."**
-
 
 ### Introduction
 
@@ -30,6 +28,28 @@ Note: using SSDs results in considerably faster build times than traditional har
 Note: You want to use a 64-bit version of Linux. A 32-bit Linux environment will only work if you are building CyanogenMod 6 and older. 
 
 So lets begin!
+
+### Automatically
+
+We now have a setup/build script located on [Github](https://github.com/OwnROM/Setup.sh) 
+
+All you have to do is run the script from your home directory and follow the onscreen instructions.
+
+Includes the following:
+
+Running the script initially will ask you for settings to run the other sripts included
+
+Any other time running the script will give you a menu with the following options:
+
+* Setup - Setup script to install needed software to build for OwnROM, only needed to run once 
+
+* Build - Build for OwnROM and options to sync before building
+
+* Sync - Sync OwnROM sources
+
+* Settings - Rerun the setup script to change settings
+
+### Manualy
 
 ### Prepare the Build Environment
 
@@ -192,47 +212,7 @@ SUBSYSTEM=="usb", ATTR{idVendor}=="19D2", MODE="0666"
 $ sudo chmod a+r /etc/udev/rules.d/51-android.rules
 {% endhighlight %}
 
-### Installing Dependencies and Download the OwnROM Source:
-
-{% highlight bash %}
-"This script may not work for marshmallow - if so skip to the next step"
-{% endhighlight %}
-
-We have an automated script ready for you to download the things you need...
-
-Open a new terminal and make the following Commands:
-
-{% highlight bash %}
-$ git clone https://github.com/OwnROM/Setup.sh
-$ . Setup.sh/setup.sh
-{% endhighlight %}
-
-(watch the space between the "." and "Setup.sh/setup.sh")
-
-Follow the instructions and wait for it to finish, this is going to take long time...
-
-Lets start building:
-
-* Make the following commands:
-
-{% highlight bash %}
-$ cd path/to/your/ownrom/root/directory
-$ . ownrom.sh
-{% endhighlight %}
-
-(again the space between "." and ownrom.sh)
-
-* And follow the instructions
- 
-* When your build is finished without any problems you'll see something like this:
-
-{% highlight bash %}
-"Package Complete: /home/user/Desktop/OwnROM/out/target/product/<device codename>/OwnROM-ALPHA-0.1-UNOFFICAL-2015.06.02.zip"
-{% endhighlight %}
-
-* Head over to this directory and copy the .zip package to your phone and flash it in a custom recovery.
-
-### Install the Build Packages (Following steps only needed if the above script does not work)
+### Install the Build Packages 
 
 Several "build packages" are needed to build OwnROM. You can install these using the package manager of your choice.
 
