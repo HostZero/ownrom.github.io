@@ -216,16 +216,10 @@ $ sudo chmod a+r /etc/udev/rules.d/51-android.rules
 
 Several "build packages" are needed to build OwnROM. You can install these using the package manager of your choice.
 
-For both 32-bit & 64-bit systems, you'll need:
+You'll need:
 
 {% highlight bash %}
-$ sudo apt-get install bison build-essential curl flex git gnupg gperf libesd0-dev liblz4-tool libncurses5-dev libsdl1.2-dev libwxgtk2.8-dev libxml2 libxml2-utils lzop maven openjdk-7-jdk openjdk-7-jre pngcrush schedtool squashfs-tools xsltproc zip zlib1g-dev
-{% endhighlight %}
-
-In addition to the above, for 64-bit systems, get these:
-
-{% highlight bash %}
-$ sudo apt-get install g++-multilib gcc-multilib lib32ncurses5-dev lib32readline-gplv2-dev lib32z1-dev
+$ sudo apt-get install bison build-essential curl flex git gnupg gperf libesd0-dev liblz4-tool libncurses5-dev libsdl1.2-dev libwxgtk2.8-dev libxml2 libxml2-utils lzop maven openjdk-7-jdk openjdk-7-jre pngcrush schedtool squashfs-tools xsltproc zip zlib1g-dev g++-multilib gcc-multilib lib32ncurses5-dev lib32readline-gplv2-dev lib32z1-dev maven
 {% endhighlight %}
 
 Also see [http://source.android.com/source/initializing.html](http://source.android.com/source/initializing.html) which lists needed packages.
