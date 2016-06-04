@@ -18,6 +18,14 @@ Nexus 6P - angler
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/angler)
 * [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=54055)
 
+Nexus 6 - shamu 
+
+* [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=32575)
+
+Samsung Galaxy S5 - klte
+
+* [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=33338)
+
 Nexus 5 - hammerhead
 
 * [Download - XDA](http://forum.xda-developers.com/google-nexus-5/development/ownrom-hammerhead-6-0-1-mtc19t-official-t3382864)
