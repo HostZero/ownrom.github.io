@@ -72,9 +72,13 @@ Moto G 2015 - osprey
 
 * [Download - XDA](http://forum.xda-developers.com/2015-moto-g/development/rom-ownrom-v3-0-beta-t3365240)
 
-Xiaomi Redmi 2
+Xiaomi Redmi 2 - wt88047
  
 * [Download - XDA](http://forum.xda-developers.com/redmi-2/development/ownrom-t3365676) 
+
+Moto E First Gen. - condor 
+
+* [Download - XDA](http://forum.xda-developers.com/moto-e/development/rom-ownrom-t3373541)
 
 ## G-Apps
 
