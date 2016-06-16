@@ -68,6 +68,10 @@ Moto G 2014 - titian
 
 If you build for a device and want the build to become official get in contact with us using our [form](http://bit.ly/1CGP0HE) or contact me [directly](https://plus.google.com/+VictorLinfield)
 
+Yu Yureka - tomato
+
+* [Download - XDA](http://forum.xda-developers.com/yureka/orig-development/rom-ownromandroid-marshmallowyureka-t3399693)
+
 Moto G 2015 - osprey
 
 * [Download - XDA](http://forum.xda-developers.com/2015-moto-g/development/rom-ownrom-v3-0-beta-t3365240)
