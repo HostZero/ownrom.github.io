@@ -68,6 +68,10 @@ Moto G 2014 - titian
 
 If you build for a device and want the build to become official get in contact with us using our [form](http://bit.ly/1CGP0HE) or contact me [directly](https://plus.google.com/+VictorLinfield)
 
+Htc One M7 - m7
+
+* [Download - XDA](http://forum.xda-developers.com/htc-one/development/ownrom-6-0-1-mob30d-ownrom-v3-0-t3364456)
+
 Yu Yureka - tomato
 
 * [Download - XDA](http://forum.xda-developers.com/yureka/orig-development/rom-ownromandroid-marshmallowyureka-t3399693)
