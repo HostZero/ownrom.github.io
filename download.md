@@ -40,7 +40,7 @@ Android One First Gen. - sprout4
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout4)
 
 Oneplus X - onyx
-* [Download - XDA](http://http://forum.xda-developers.com/oneplus-x/development/rom-ownrom-v3-0-t3408499)
+* [Download - XDA](http://forum.xda-developers.com/oneplus-x/development/rom-ownrom-v3-0-t3408499)
 * [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=71781)
 
 Oneplus One - bacon
