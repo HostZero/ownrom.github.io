@@ -41,7 +41,7 @@ Android One First Gen. - sprout4
 
 Oneplus X - onyx
 
-* [Download - Basketbuild](https://basketbuild.com/devs/SarthakNarang/ownrom)
+* [Download - Android File Host](https://www.androidfilehost.com/?fid=24591000424943564)
 
 Oneplus One - bacon
 
