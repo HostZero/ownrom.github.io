@@ -31,13 +31,11 @@ Nexus 5 - hammerhead
 * [Download - XDA](http://forum.xda-developers.com/google-nexus-5/development/ownrom-hammerhead-6-0-1-mtc19t-official-t3382864)
 * [Download - Android File Host](https://www.androidfilehost.com/?w=files&flid=60299)
 
-Android One Second Gen. - sprout8
-
-* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout8)
-
-Android One First Gen. - sprout4
+Android One First Gen. - sprout4, sprout8
 
 * [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout4)
+
+* [Download - Sourceforge](https://sourceforge.net/projects/ownrom/files/sprout8)
 
 Oneplus X - onyx
 
